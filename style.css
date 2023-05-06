@@ -1,0 +1,55 @@
+main{
+    text-align: center;
+    font-family: cursive;
+    background-color: rgb(255, 231, 237);
+}
+header{
+    text-align: center;
+    font-family: cursive;
+    background-color: pink;
+    border-radius: 10px;
+}
+.f{
+    color: rgb(224, 117, 135);
+}
+.pppp{
+    border: 10px solid red;
+}
+footer{
+    background-color: pink;
+    border-radius: 10px;
+    padding: 10px;
+
+}
+body{
+    background-color: rgb(255, 234, 238);
+}
+p{
+    color: rgb(95, 59, 64);
+    font-family: Bradley Hand;
+    font-size: larger;
+}
+a{
+    font-family: fantasy;
+    text-decoration: 0;
+    padding: 10px;
+    color: rgb(95, 59, 64);
+}
+.www{
+    margin: 0px;
+}
+.ssss{
+    magrin: 10px;
+    text-align: center;
+    font-size: larger;
+}
+.ddd{ 
+
+}
+
+.dff{
+    background-color: plum;
+}
+nav{ 
+    
+}
